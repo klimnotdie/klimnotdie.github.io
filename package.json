@@ -1,0 +1,25 @@
+{
+  "name": "useddom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klimnotdie/useddom.git"
+  },
+  "author": "klim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klimnotdie/useddom/issues"
+  },
+  "homepage": "https://github.com/klimnotdie/useddom#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bower": "^1.8.2",
+    "gulp": "^3.9.1",
+    "material-ui-icons": "^1.0.0-beta.36"
+  }
+}
